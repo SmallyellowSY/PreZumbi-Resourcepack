@@ -1,0 +1,1 @@
+The Resourcepack for PreZumbi, compatible with Minecraft 1.20.1
