@@ -1,0 +1,16 @@
+test (8.17.2023)
+  New Textures:
+    碰撞用玻璃片(橘色玻璃片)
+
+Pre1.1 (8.18.2023)
+  New Textures:
+    封鎖線(黃色玻璃)
+  Other Things:
+     版本, changelog
+
+20230821
+  胡蘿蔔釣竿(Glass Remover) CustomModelData
+
+20240220
+  相容版本升級至 Minecraft 1.20.4
+  正式命名為 PreZumbi Resourcepack

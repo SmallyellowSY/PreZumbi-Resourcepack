@@ -1,1 +1,4 @@
-The Resourcepack for PreZumbi, compatible with Minecraft 1.20.1
+# PreZumbi Resourcepack
+## compatible with Minecraft 1.20.4
+
+*Copyright© 2024 PreZumbi Team All Rights Reserved*
